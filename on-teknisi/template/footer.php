@@ -1,12 +1,12 @@
 </section><!-- /.content -->
-      </div><!-- /.content-wrapper -->
+</div><!-- /.content-wrapper -->
 <footer class="main-footer">
-    <div class="pull-right hidden-xs">
-      <b>By</b> PT. Pandu Anugerah Analitika
-    </div>
-    <strong>Copyright © 2018 <a href="#">Sistem Pencatatan Keluhan Pelanggan</a>.</strong> All rights
-    reserved.
-  </footer>
+  <div class="pull-right hidden-xs">
+    <b>By</b> PT. ARLOJI TIGA SAUDARA
+  </div>
+  <strong>Copyright © 2022 <a href="#">Sistem Pencatatan Keluhan Pelanggan</a>.</strong> All rights
+  reserved.
+</footer>
 <!-- ./wrapper -->
 
 <!-- Bootstrap 3.3.7 -->
@@ -32,4 +32,5 @@
   };
 </script>
 </body>
+
 </html>

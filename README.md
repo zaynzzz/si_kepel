@@ -1,10 +1,12 @@
 # si_kepel
-Sistem Informasi Keluhan Pelanggan dengan PHP dan Mysql, Studi kasus di PT. Pandu Anugerah Analitika.
+
+Sistem Informasi Keluhan Pelanggan dengan PHP dan Mysql, Studi kasus di PT. ARLOJI TIGA SAUDARA.
 
 <p align="center" ><img height="400px" src="https://github.com/perdianto27/si_kepel/blob/master/assets/img/sikepel.png"> </p>
 
 Tech :
-- Native PHP 7 
+
+- Native PHP 7
 - Mysql
 - Ajax
 - Javascript
@@ -12,6 +14,7 @@ Tech :
 - Admin LTE
 
 Demo :
+
 - Xampp 3.2.2 php7
 - Clone repo
 - Import database
